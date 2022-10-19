@@ -1,0 +1,22 @@
+{
+  "name": "entorno",
+  "version": "1.0.0",
+  "description": "prueba de git en node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastian405/entornoNodeJs.git"
+  },
+  "author": "sebastian vasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastian405/entornoNodeJs/issues"
+  },
+  "homepage": "https://github.com/sebastian405/entornoNodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
